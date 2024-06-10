@@ -12,9 +12,6 @@ const Sidebar = () => {
       <p className="title">Desenvolvedor</p>
       <SocialNetworkContainer />
       <InformationContainer />
-      <a href="/currículo/Currículo de Estágio.pdf" className="btn" download>
-        Download currículo
-      </a>
     </aside>
   );
 };
